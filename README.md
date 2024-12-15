@@ -13,6 +13,8 @@ This project demonstrates:
 - Message rendering.
 - TypeScript, TailwindCSS and Shadcn.
 
+![](https://github.com/olidroide/rag-chat-poc/media/video_example.gif)
+
 ## Features
 
 - Chat interface with message input.
