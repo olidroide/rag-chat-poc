@@ -13,7 +13,7 @@ This project demonstrates:
 - Message rendering.
 - TypeScript, TailwindCSS and Shadcn.
 
-![](https://github.com/olidroide/rag-chat-poc/media/video_example.gif)
+![](https://raw.githubusercontent.com/olidroide/rag-chat-poc/refs/heads/main/media/video_example.gif)
 
 ## Features
 
